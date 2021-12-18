@@ -1,1 +1,2 @@
-this is manual
+this is manual for sql
+
